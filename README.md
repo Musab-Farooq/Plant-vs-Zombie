@@ -1,4 +1,4 @@
-# 🧟🌻 Plants vs. Zombies Clone
+# 🧟🌻 Plants vs. Zombies 
 
 A fun and strategic **tower-defense** style game developed in **C++** using the **SFML** (Simple and Fast Multimedia Library). In this simplified version of the classic *Plants vs. Zombies*, protect your home from waves of quirky zombies by tactically placing powerful plants on your lawn!
 

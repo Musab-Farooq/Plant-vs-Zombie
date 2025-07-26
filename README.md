@@ -121,7 +121,7 @@ A fun and strategic **tower-defense** style game developed in **C++** using the 
 
 ## 📦 One-Click Run
 
-Want to try Centipede **without compiling**?
+Want to try **without compiling**?
 
 - [**Download the ZIP release**](https://github.com/Musab-Farooq/Plant-vs-Zombie/blob/main/Plant%20vs%20Zombies.zip)  
 - Extract the folder.

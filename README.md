@@ -110,15 +110,21 @@ A fun and strategic **tower-defense** style game developed in **C++** using the 
 
 ---
 
-## 💾 Installation & Requirements
+## 🛠️ Requirements
 
-### 🛠️ Requirements
-- SFML 2.x installed and linked
-- C++17 compatible compiler (e.g., g++, MSVC)
-
-### 🧪 Quick Run Option
-> To play the game **without installing SFML**, simply download the **release ZIP** and run the `PlantsVsZombies.exe` file inside.
+- C++ compiler (g++, clang++, MSVC)
+- Install [SFML](https://www.sfml-dev.org/download.php) and configure your compiler to link it properly.
+- Texture and audio files (included)
 
 ---
 
 
+## 📦 One-Click Run
+
+Want to try Centipede **without compiling**?
+
+- [**Download the ZIP release**](https://github.com/Musab-Farooq/Plant-vs-Zombie/blob/main/Plant%20vs%20Zombies.zip)  
+- Extract the folder.
+- Run the provided `.exe` file inside to launch Plant vs Zombies instantly!
+
+---
